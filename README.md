@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Working in Github to bring DH to community colleges. 
